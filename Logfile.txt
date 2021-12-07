@@ -1,0 +1,11 @@
+Failed to initialize all desired image formats.
+Failed loading libtiff-5.dll: The specified module could not be found.
+
+Font w/h:1647 45
+Failed to initialize all desired sound formats.
+Mixer not built with MOD timidity support
+Error:LoadSound:Failed to load file:
+YouLost.wav
+Mix_LoadWAV_RW with NULL src
+Error: Couldn't load this music filename:
+PopStyle.mp3
